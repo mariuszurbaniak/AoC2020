@@ -1,2 +1,2 @@
 # AoC2020
-Solution of the Advent of Code challenges
+Solutions of the Advent of Code challenges
